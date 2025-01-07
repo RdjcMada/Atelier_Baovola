@@ -176,33 +176,8 @@
                     </a>
                     <ul id="liste-nav" class="nav-content collapse" data-bs-parent="#sidebar-nav">
                         <li>
-                            <a href="${pageContext.request.contextPath}/PreListeStyle">
-                                <i class="bi bi-circle"></i><span>Liste styles</span>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="${pageContext.request.contextPath}/Liste/formMeublePrixfabrication.jsp">
-                                <i class="bi bi-circle"></i><span>Recherche par prix</span>
-                            </a>
-                        
-                        <li>
-                            <a href="${pageContext.request.contextPath}/PreListParMatiere">
-                                <i class="bi bi-circle"></i><span>Liste par matière</span>
-
-                            </a>
-                        </li>
-                        
-                        <li>
-                            <a href="${pageContext.request.contextPath}/Liste/formBenefice.jsp">
-                                <i class="bi bi-circle"></i><span>Liste par bénéfice</span>
-
-                            </a>
-                        </li>
-                        
-                        <li>
-                            <a href="${pageContext.request.contextPath}/PreStatistique">
-                                <i class="bi bi-circle"></i><span> Statistique </span>
+                            <a href="${pageContext.request.contextPath}/PreProbleme">
+                                <i class="bi bi-circle"></i><span> Recherche par probleme </span>
                             </a>
                         </li>
                         
