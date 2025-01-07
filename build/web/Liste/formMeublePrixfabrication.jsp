@@ -19,7 +19,7 @@
                         <h5 class="card-title"></h5>
                         <p><code> Recherche par Probleme </code> </p>
 
-                        <form class="row g-3" action="../Probleme" method="get">
+                        <form class="row g-3" action="../Probleme" method="post">
                             <div class="col-md-6">
                                 <label for="typeservice" class="form-label"> Type de Service </label>
                                 <select name="id_service_type"> 
