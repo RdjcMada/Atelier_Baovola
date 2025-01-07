@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionClient.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreInsertionStyle.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/generalbdd/BDDObject.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/PreListParMatiere.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionPersonne.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/PreListeMatiereStyle.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionQuantiteMatiere.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionProfil.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionTypempiasa.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreInsertionQuantiteMatiere.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreStock.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionMaindoeuvre.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/Statistique.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionVolume.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionStyle.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreClient.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/Benefice.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PrePrixVente.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PrixVente.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/ListParMatiere.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/connexion/Connexion.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/PreStatistique.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreVente.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/web/index.jsp</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionMatiere.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/PreListeStyle.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionMeuble.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreInsertionMaindoeuvre.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionFabrication.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionMouvementStock.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreInsertionFabrication.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/generalbdd/annotation/Column.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/liste/MeublePrixFabrication.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreInsertionMeuble.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionCategorie.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/InsertionVente.java</file>
+            <file>file:/D:/itu/S5/Mme%20Baovola/Atelier_Baovola/src/java/controller/insertion/PreInsertionPersonne.java</file>
+        </group>
+    </open-files>
+</project-private>
