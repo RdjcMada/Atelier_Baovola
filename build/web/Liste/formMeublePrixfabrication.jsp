@@ -22,14 +22,14 @@
                         <form class="row g-3" action="../Probleme" method="get">
                             <div class="col-md-6">
                                 <label for="typeservice" class="form-label"> Type de Service </label>
-                                <select name="typeservice"> 
+                                <select name="id_service_type"> 
                                     <option value="type"> Type </option>
                                 </select> 
                             </div>
                             
                             <div class="col-md-6">
                                 <label for="probleme" class="form-label"> Probleme </label>
-                                  <select name="typeservice"> 
+                                  <select name="id_type_issue"> 
                                     <option value="type"> Probleme </option>
                                 </select>
                             </div>
@@ -42,6 +42,9 @@
         </div>
                 
         <div class="row"> 
+                
+            <h2> Resultats </h2>
+            
             <table class="table" border="1" width="800px">
                   
                 <tr>
